@@ -45,5 +45,3 @@ INSERT INTO `users` (`id`, `user`, `password`) VALUES
 (1, 'Melissa', 'bd7db7397f7d83052f829816ecc7f004'),
 (2, 'German', 'ad9be0b5d43f9e2aba895f3ede723aa1');
 COMMIT;
-
-En caso de que sea necesario para el back, ingresar con usuario Melissa y contraseña 2403.
