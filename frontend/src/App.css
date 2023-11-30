@@ -1,0 +1,10 @@
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    background: linear-gradient(60deg, #262856 0%, #262856 30%, #a52f2f calc(30% + 1px), #a52f2f 60%, #903749 calc(60% + 1px), #903749 70%, #53354A calc(70% + 1px), #53354A 100%);
+  }
+
+.holder { 
+  max-width: 960px;
+}

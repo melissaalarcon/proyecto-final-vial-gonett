@@ -1,0 +1,50 @@
+
+.container-formulario{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    font-family: 'Raleway', sans-serif;
+}
+    .plantilla-contacto{
+        width: 720px;
+        background-color: #2b2e5b;
+        padding: 3%;
+        border-radius: 8px 0px 0px 8px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+        .plantilla-contacto h4 {
+            color: aliceblue;
+            font-size: 20px;
+        }
+        .plantilla-contacto h5{
+            color: aliceblue;
+            font-size: 15px;
+        }
+    form{
+        color: aliceblue;
+        padding: 20px;
+    }
+        .form-check{
+            font-size: 13px;
+            justify-content: center;
+        }
+.info-contacto{
+    text-align: justify;
+    line-height: 30px;
+    width: 300px;
+    color: aliceblue;
+    background-color: #434888;
+    border-radius: 0px 8px 8px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 12px;
+    padding: 2%;
+}
+    .info-contacto h4{
+        text-align: center;
+    }
+    li{
+        list-style: none;
+    }
+    i{
+        margin-left: 5px;
+    }

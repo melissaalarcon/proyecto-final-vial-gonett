@@ -1,0 +1,20 @@
+
+header{
+    background-image: linear-gradient(to right top, #151846, #1b1d4b, #202350, #262856, #2b2e5b);
+}
+    header h1{
+        font-family:'Poppins', sans-serif;
+        color: #db2d2d;
+        font-size: 40px;
+        text-shadow: 3px 1px 4px rgba(0,0,0,0.6);
+        padding-top: 25px;
+    }
+    .header-logo{
+        height: 110px;
+        padding-top: 5px;
+    }
+    #backhoe-img{
+        padding-left: 15px;
+        filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4)); 
+        /* !!! sombra sobre el svg, no su caja contenedora */
+    }

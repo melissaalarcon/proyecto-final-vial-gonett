@@ -1,0 +1,8 @@
+nav{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    background-image: linear-gradient(to top, #111438, #151846) !important;
+}
+nav ul li a.activo {
+    color: aliceblue;
+}

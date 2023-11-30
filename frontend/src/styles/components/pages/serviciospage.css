@@ -1,0 +1,31 @@
+
+#services{
+    color: aliceblue;
+}
+    .col h4{
+        color: aliceblue;
+    }
+.img-left{
+    float: left;
+    margin: auto;
+    vertical-align: middle;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+/*.img-right{
+    float: right;
+    vertical-align: middle;
+}*/
+.col{
+    box-sizing: border-box;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #262856;
+    height: 150px;
+    font-family: 'Raleway', sans-serif;
+    font-size: small;
+    /* para darle margen al div entre la img y el borde, se trabaja sobre el div de la columna, no sobre el contenedor padre. */
+}
+    .col:hover {
+        background-color: #353777;
+    }

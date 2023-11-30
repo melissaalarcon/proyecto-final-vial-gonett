@@ -1,0 +1,11 @@
+
+#welcomeBox{
+    padding: 12%;
+    font-family: 'Raleway', sans-serif;
+}
+    #welcomeBox h2{
+        color: aliceblue;
+    }
+    p{
+        color: aliceblue;
+    }
